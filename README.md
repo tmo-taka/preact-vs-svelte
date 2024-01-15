@@ -13,4 +13,8 @@
 - Svlete
 　-　前からあるライブラリではあるが、昨今本などもでてまた注目を浴びている
 
+下記が過去3ヶ月のトレンド結果です。
+![image](https://github.com/tmo-taka/preact-vs-svelte/assets/45462276/d0a6100c-0ba8-412b-a4e7-5c8dbef61190)
+
+
 
