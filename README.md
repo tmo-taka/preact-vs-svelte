@@ -13,8 +13,18 @@
 - Svlete
 　-　前からあるライブラリではあるが、昨今本などもでてまた注目を浴びている
 
-下記が過去3ヶ月のトレンド結果です。
+## preactとsvleteについて
+
+下記が過去3ヶ月のトレンド結果です。（わかりやすいようにVueとReactも含めております。）
 ![image](https://github.com/tmo-taka/preact-vs-svelte/assets/45462276/d0a6100c-0ba8-412b-a4e7-5c8dbef61190)
+
+### 比較表
+|                  | Preact              | Svlete          | 
+| ---------------- | ------------------- | --------------- | 
+| バンドルサイズ   |                     |                 | 
+| レンダリング方法 | 仮想DOM             | 実DOM           | 
+| SSR実現性        | 可（Preact + Vike） | 可（SvelteKit） | 
+| storeによる実装  | 可能                | 可能            | 
 
 
 
