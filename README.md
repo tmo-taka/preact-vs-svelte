@@ -26,6 +26,8 @@
 | レンダリング方法 | 仮想DOM             | 実DOM           | 
 | SSR実現性        | 可（Preact + Vike） | 可（SvelteKit） | 
 | storeによる実装  | 可能                | 可能            | 
+ > [!CAUTION]
+ >TODO バンドルサイズあったら埋める
 
 ### Preactについて
 まず今回Reactではなく、Preactを押しているのかというというと下記理由です。
