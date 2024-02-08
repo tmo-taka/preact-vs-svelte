@@ -43,7 +43,7 @@
    - Reactで使用可能なライブラリがPreactで使用できるかと言われるとそうでもない、省略されている可能性もあり。(Vikeもそうでした。)
    - 実際に試してみる必要あり。
  - :-1: SSRでの場合、実装に工夫が必要となる点
-   -　[preact-render-to-string](https://github.com/preactjs/preact-render-to-string) か [Vike] (https://vike.dev/)を使用する必要あり。
+   -　[preact-render-to-string](https://github.com/preactjs/preact-render-to-string) か [Vike](https://vike.dev/)を使用する必要あり。
    - そのため学習コスト及び調査が複雑。
 
 ### Sveleteについて
