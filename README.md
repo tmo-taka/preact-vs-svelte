@@ -22,12 +22,12 @@
 ### 比較表
 |                  | Preact              | Svlete          | 
 | ---------------- | ------------------- | --------------- | 
-| バンドルサイズ   |                     |                 | 
 | レンダリング方法 | 仮想DOM             | 実DOM           | 
 | SSR実現性        | 可（Preact + Vike） | 可（SvelteKit） | 
 | storeによる実装  | 可能                | 可能            | 
- > [!CAUTION]
- >TODO バンドルサイズあったら埋める
+ > [!TIP]
+ >バンドルサイズについては以下記事がかなり参考になります  
+ > https://zenn.dev/jay_es/articles/2021-10-22-javascript-framework-size-comparison
 
 ### Preactについて
 まず今回Reactではなく、Preactを押しているのかというというと下記理由です。
@@ -119,8 +119,11 @@ test　（testというpathにアクセスした場合に下記ファイルを�
 ### まとめ
 
 #### 個人的な結論
- > [!CAUTION]
- >TODO
+  個人的には「Svelte」が良いかな？と思っております。
+  理由としましては以下です。
+  - 今後の発展の可能性あり
+  - フロントエンドシステム膨大化によるファイル分割が可能
+  - どのような規模感のサービスにも対応が可能
 
 #### 判断材料
 |                                                                                   | Vue(Compostion API) | Preact                                              | Svelte               | 
