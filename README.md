@@ -34,7 +34,7 @@
 
 #### メリット
  - :+1: Reactに比べ軽量という点 
-   - Preact:9.5kB React124.1kB(本体：6.4kB + ract-dom:114.6kB)
+   - Preact:9.5kB React124.1kB(本体：6.4kB + react-dom:114.6kB)
  - :+1: Reactではネストされたコンポーネントに対して描画効率を考えmemo化等複雑化してしまう部分で少し楽になる点
    - Preactから発信された`Signals`というものでpropsされた値を使っていないところには勝手に伝達されない
   
